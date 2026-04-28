@@ -44,14 +44,22 @@ Projeto educativo em C com uso de matriz 10x10 para simular um tabuleiro de bata
 
 Neste nível foram implementados:
 
-## Sistema de poderes:
+## 💥 Sistema de poderes
 
 - Cruz
 - Cone
-- Octaedro (losango)
+- Octaedro (formato de losango)
+
+## ⚙️ Funcionalidades
+
+- Aplicação dos poderes no tabuleiro 10x10
+- Validação de limites (evita sair do tabuleiro)
+- Sobreposição inteligente (não sobrescreve navios)
+- Representação visual das áreas afetadas (*)
 
 ## 🧠 Conceitos utilizados
 
-- Uso de matrizes e loops aninhados
-- Validação de limites do tabuleiro
-- Aplicação dos poderes sem sobrescrever navios
+- Matrizes bidimensionais
+- Loops aninhados
+- Estruturas condicionais
+- Lógica de posicionamento relativo (centro + deslocamento)
