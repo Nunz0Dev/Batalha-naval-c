@@ -11,8 +11,8 @@ Este programa cria um tabuleiro 10x10 e posiciona automaticamente dois navios:
 
 O objetivo é representar visualmente o tabuleiro no terminal, utilizando:
 
-~ para água 🌊
-N para navio 🚢
+- ~ para água 🌊
+- N para navio 🚢
 
 ## 🧠 Conceitos utilizados
 
@@ -29,10 +29,10 @@ Projeto educativo em C com uso de matriz 10x10 para simular um tabuleiro de bata
 
 - Inicialização do tabuleiro com água (~)
 - Posicionamento de navios:
-  - Horizontal
-  - Vertical
-  - Diagonal ↘ (baixo + direita)
-  - Diagonal ↗ (cima + direita)
+- Horizontal
+- Vertical
+- Diagonal ↘ (baixo + direita)
+- Diagonal ↗ (cima + direita)
 
 ## 🧠 Conceitos utilizados
 
